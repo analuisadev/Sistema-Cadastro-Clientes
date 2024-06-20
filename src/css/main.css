@@ -1,3 +1,7 @@
+@import url(button.css);
+@import url(modal.css);
+@import url(records.css);
+
 *{
     padding: 0;
     margin: 0;
